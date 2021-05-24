@@ -1,0 +1,19 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.4+1/
+firebase_auth_web=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.3.2+3/
+firebase_core=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.3/
+firebase_core_web=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+1/
+firebase_messaging=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-7.0.3/
+flutter_plugin_android_lifecycle=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/
+flutter_webview_plugin=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/
+google_sign_in=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.5.9/
+google_sign_in_web=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.9.2/
+local_auth=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/local_auth-0.6.3+4/
+path_provider_linux=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
+path_provider_windows=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3/
+shared_preferences=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+4/
+shared_preferences_linux=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+4/
+shared_preferences_macos=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+11/
+shared_preferences_web=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/
+shared_preferences_windows=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-0.0.2+3/
+sign_in_with_apple=/Users/ranaayman/Documents/development/Flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-2.5.4/

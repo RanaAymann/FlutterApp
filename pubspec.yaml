@@ -1,0 +1,38 @@
+name: FlutterApp
+description: " - Google , Facebook and Apple Logins using firebase."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.16.1
+  shared_preferences: ^0.5.12+4
+  firebase_messaging: ^7.0.3
+  flutter_webview_plugin: ^0.3.11
+  firebase_auth: 0.18.4+1
+  google_sign_in: ^4.5.9
+  firebase_core :
+  local_auth: ^0.6.3+4
+  sign_in_with_apple: ^2.5.4
+  encrypt: ^4.1.0
+  cupertino_icons: ^1.0.0
+  flutter_riverpod: 0.12.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+ 
+  uses-material-design: true
+
+  
