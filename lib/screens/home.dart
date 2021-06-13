@@ -5,12 +5,18 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'blog.dart';
 
-class HomePage extends StatelessWidget {
+class HomePage extends StatefulWidget {
+  @override
+  _HomePagetate createState() => _HomePagetate();
+}
+
+class _HomePagetate extends State<HomePage> {
+  bool supportsAppleSignIn = false;
+
   @override
   Widget build(BuildContext context) {
     MediaQueryData media = MediaQuery.of(context);
     final Size screenSize = media.size;
-
     return Scaffold(
       body: SingleChildScrollView(
         child: Container(
@@ -86,6 +92,7 @@ class HomePage extends StatelessWidget {
                                   width: 24.0,
                                   height: 24.0),
                               onPressed: () async {
+                                supportsAppleSignIn = true;
                                 var appleLogin =
                                     await Login.loginWithApple(context);
                               },
